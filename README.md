@@ -50,7 +50,7 @@ For more parameters, you can run `python run_energy_training.py -h`.
 
 
 ## Brief Introduction
-Unsupervised protein structure pretraining without labels is fundamental to various applications. The existing conventional methods mainly focus on denoising modeling and masked language modeling, which making the pretrained structure models incapable of maintaining complete structure and original invariant information. 
+Unsupervised protein structure pretraining without labels is fundamental for various applications. The existing conventional methods mainly focus on denoising modeling and masked language modeling, making the pretrained structure models incapable of maintaining complete structure and original invariant information. 
 In this work, we tackle 3D protein pretaining in a complete and novel sense. In particular, we first propose to adopt an equivariant energy-based model as the backbone for pretraining, which enjoys the merits of fulfilling the symmetry of 3D space. Then we develop a node-level pretraining loss for force prediction, where we further exploit the Riemann-Gaussian distribution to ensure the loss to be E(3)-invariant, enabling more robustness. Moreover, a graph-level noise scale prediction task is also leveraged to further promote the eventual performance. 
 
 
