@@ -1,8 +1,0 @@
-ep=0	avg_denoise=1.8749	avg_pred_noise=0.3260	avg_loss=2.2009	loss2:2.4226,acc:0.2462	ppl=11.2749
-ep=0	avg_denoise=2.3555	avg_pred_noise=0.3917	avg_loss=2.7473
-ep=1	avg_denoise=2.2415	avg_pred_noise=0.3915	avg_loss=2.6330
-ep=2	avg_denoise=2.4450	avg_pred_noise=0.3893	avg_loss=2.8343
-ep=3	avg_denoise=2.3231	avg_pred_noise=0.3892	avg_loss=2.7123
-ep=4	avg_denoise=2.0478	avg_pred_noise=0.3880	avg_loss=2.4358
-ep=5	avg_denoise=2.0688	avg_pred_noise=0.3868	avg_loss=2.4555
-ep=6	avg_denoise=2.2810	avg_pred_noise=0.3858	avg_loss=2.6668
