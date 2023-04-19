@@ -1,6 +1,6 @@
 # Energy-Motivated Unsupervised Pretraining for Equivariant Protein Structure Graphs
 
-![Overview](pics/overview.png "Overview")
+![Overview](pics/overview.jpg "Overview")
 
 This is a toy respository for pretraining **3D Protein Structure Model** based on energy-motivated function.
 
